@@ -3,4 +3,9 @@
 */
 public Common
 {
+	public void display(String value)
+	{
+		/* This will display the value passed to it on the sys console*/
+		System.out.println(value);
+	}
 }
