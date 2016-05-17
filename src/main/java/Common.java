@@ -3,4 +3,9 @@
 */
 public Common
 {
+	public void feature(String value)
+	{
+		/* This will display the feature with the prefix feature */
+		System.out.println("Feature: " + value);
+	}
 }
